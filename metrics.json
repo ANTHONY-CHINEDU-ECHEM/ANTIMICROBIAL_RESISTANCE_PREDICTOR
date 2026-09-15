@@ -1,0 +1,13 @@
+{
+  "per_class_auc_roc": {
+    "penicillins": 0.6959,
+    "cephalosporins": 0.7242,
+    "fluoroquinolones": 0.7215,
+    "carbapenems": 0.7157,
+    "aminoglycosides": 0.7206,
+    "glycopeptides": 0.7234
+  },
+  "mean_auc_roc": 0.7169,
+  "n_train": 13500,
+  "n_test": 4500
+}

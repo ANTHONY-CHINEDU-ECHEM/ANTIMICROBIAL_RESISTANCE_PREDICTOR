@@ -1,0 +1,24 @@
+{
+  "rolling_origin_folds": [
+    {
+      "train_origin_month": 12,
+      "test_window": "12-18",
+      "mean_auc_roc": 0.7153,
+      "n_test": 2944
+    },
+    {
+      "train_origin_month": 18,
+      "test_window": "18-24",
+      "mean_auc_roc": 0.7064,
+      "n_test": 3003
+    },
+    {
+      "train_origin_month": 24,
+      "test_window": "24-30",
+      "mean_auc_roc": 0.7061,
+      "n_test": 2995
+    }
+  ],
+  "auc_drift_pct_first_to_last": 1.29,
+  "meets_5pct_retention_target": true
+}
